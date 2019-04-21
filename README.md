@@ -1,5 +1,5 @@
 # ToDo_List
-## Movie Feast :
+## Notes Feast :
 An app that uses the Room Database to store notes and update them. <br />
 # Feature
    - Show Notes by desc Order
